@@ -1,0 +1,19 @@
+{
+  "requires": true,
+  "lockfileVersion": 1,
+  "dependencies": {
+    "math": "0.0.3",
+    "tone": "^14.7.77"
+  },
+  "name": "itsabop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tristan Hundley",
+  "license": "ISC",
+  "description": "Generative"
+}
