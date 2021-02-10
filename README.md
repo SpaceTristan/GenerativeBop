@@ -1,5 +1,5 @@
-#Generative Music Project
+# Generative Music Project
 
-##Description
+## Description
 
 Creating generative music mechanism
